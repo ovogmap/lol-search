@@ -1,6 +1,5 @@
 import { ChangeEvent, useState } from 'react';
 import { useRouter } from 'next/router';
-import Link from 'next/link';
 import styles from './Main.module.scss';
 
 export default function Main(): React.ReactElement {
